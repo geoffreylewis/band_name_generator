@@ -10,6 +10,12 @@ Only using Python, this software will take a user's answers to some questions an
 
 ## Version History
 
+**Version 1.0**  
+*4/19/2024*  
+* Program is done (for now).
+* Created 3 questions instead of 2, and spaced out the lines to be more aesthetically pleasing.
+* Perhaps later, I will add str() and capitalize() so that users don't have to worry about the wrong user input.  
+
 **Version 0.1**  
 *4/19/2024*  
 * This program has just been started.
